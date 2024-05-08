@@ -1,1 +1,48 @@
-# cppnow_presentations_2024
+# CppNow Presentations 2024
+
+More slides will be added as and when they are provided.
+
+- [C++ Painkillers](/Presentations/Cpp_Painkillers.pdf) by Anastasia Kazakova
+- [Expressive Compile-Time Parsers](/Presentations/Expressive_Compile-Time_Parsers.pdf) by Alon Wolf
+- [C++ Reflection: Back on Track](/Presentations/Cpp_Reflection.pdf) by David Olsen
+- [Coroutines and Structured Concurrency in Practice](/Presentations/Coroutines_and_Structured_Concurrency_in_Practice.pdf) by Dmitry Prokoptsev
+- [Newer Isn’t Always Better: Investigating Legacy Design Trends and Their Modern Replacements](/Presentations/Newer-Isnt-Always-Better.pdf) by Katherine Rocha
+- [Boost.Parser (Parts 1 & 2)](/Presentations/https://github.com/tzlaine/parser) by Zach Laine
+- [The importance of the build system target model](/Presentations/The_importance_of_the_build_system_target_model.pdf) by Bill Hoffman
+- [C++ Should Be C++](/Presentations/Cpp_Should_Be_Cpp.pdf) by David Sankel
+- [Rappel: Compose Algorithms, not Iterators - Google's Alternative to Ranges](/Presentations/Rappel-compose-algorithms-not-iterators.pdf) by John Bandela, Chris Philip
+- [What we’ve been awaiting for?](/Presentations/https://talks.cpp.fail/what-we-have-been-awaiting-for/) by Hana Dusíková
+- [Unlocking Modern CPU Power - Next-Gen C++ Optimization Techniques](/Presentations/Unlocking_Modern_CPU_Power.pdf) by Fedor G Pikus
+- [Coroutines at scale: Implementation choices at Google](/Presentations/Coroutines_at_scale.pdf) by Aaron Jacobs
+- [Developing Better Code by Isolating Decisions](/Presentations/Developing_Better_Code_by_Isolating_Decisions.pdf) by Michael Okyen
+- [Reintroduction to Generic Programming](/Presentations/reintroduction_to_generic_programming.pdf) by Nick DeMarco
+- [Dependency Injection in C++: A Practical Guide](/Presentations/Dependency_Injection_in_Cpp.pdf) by Peter Muldoon
+- [Functional C++](/Presentations/functional-cpp.pdf) by Gašper Ažman
+- [An Adventure in Modern Library Design](/Presentations/An-Adventure-in-Modern-Library-Design.pdf) by Robert Leahy
+- [C++ Memory Model: from C++11 to C++23](/Presentations/Cpp_Memory_Model.pdf) by Alex Dathskovsky
+- [A New Dragon in the Den: Fast conversion from floating point numbers](/Presentations/a-new-dragon-in-the-den.pdf) by Cassio Neri
+- [Reflection is good for (code) health](/Presentations/Reflection-is-good-for-your-code-health) by Saksham Sharma
+- [Implementing Ranges and Views](/Presentations/Implementing_Ranges_and_Views.pdf) by Roi Barkan
+- [An (In-)Complete Guide to C++ Object Lifetimes](/Presentations/An_(In-)Complete_Guide_to_Cpp_Object_Lifetimes.pdf) by Jonathan Müller
+- [C++ is a metacompiler](/Presentations/Cpp_is_a_Metacompiler.pdf) by Daniel Nikpayuk
+- [A case study in zero-cost abstractions: High performance message dispatch](/Presentations/High_Performance_Message_Dispatch.pdf) by Luke Valenty
+- [Backporting Safety](/Presentations/Backporting_Safety.pdf) by Taylor Foxhall
+- [Zero overhead pass by value through invocable abstractions](/Presentations/Zero_Overhead_Pass_By_Value_Through_Invocable_Abstractions.pdf) by Filipp Gelman
+- [<Random> harder better faster stronger](/Presentations/random-harder-better-faster-stronger.pdf) by Adrien Devresse
+- [C++ Overload Inspector: A tool for analyzing and profiling overloaded function calls](/Presentations/cpp_overload_inspector.pdf) by Botond Istvan Horvath
+- [ALSan(attachable leak sanitizer)](/Presentations/ALSAN.pdf) by Bojun Seo
+- [Testability and API Design](/Presentations/Testability-and-API-Design.pdf) by John Pavan, Lukas Zhao & Aram Chung
+- [Fun with Flags: Type-safe bitwise operations](/Presentations/Fun_with_Flags.pdf) by Tobias Loew
+- [What does it take to implement the standard library?](/Presentations/What_does_it_take_to_implement_the_standard_library.pdf) by Christopher Di Bella
+- [Generic Arity: Definition-Checked Variadics in Carbon](/Presentations/Generic_Arity.pdf) by Geoffrey Romer
+- [Unit Testing an Expression Template Library in C++20](/Presentations/Unit_Testing_an_Expression_Template_Library_in_Cpp20.pdf) by Braden Ganetsky
+- [C++ Type Erasure Demystified](/Presentations/Cpp_Type_Erasure_Demystified.pdf) by Fedor G Pikus
+- [Our Other C++ Interfaces: Mistakes to Avoid When Writing C++ Projects](/Presentations/Our_Other_Cpp_Interfaces.pdf) by Bret Brown
+- [How do Time Travel Debuggers Work?: Design and implementation of a time travel debugger](/Presentations/How_do_Time_Travel_Debuggers_Work.pdf) by Greg Law
+- [Concept Maps using C++23 Library Tech: Indirection to APIs for a Concept](/Presentations/Concept_Maps_using_Cpp23_Library_Tech.pdf) by Steve Downey
+- [The Most Important API Design Guideline: No, It's Not That One](/Presentations/The_Most_Important_API_Design_Guideline.pdf) by Jody Hagins
+- [Glean: Code Indexing at Meta](/Presentations/glean.pdf) by Michael Park
+- [Embedded Asynchronous Abstraction: Implementing Senders &amp; Receivers Without an OS](/Presentations/Embedded_Asynchronous_Abstraction.pdf) by Ben Deane
+- [Modernizing Finite State Machines Implementation: Empowering Simplicity and Boosting Performance with std::variant](/Presentations/Modernizing_Finite_State_Machines_Implementation.pdf) by Amandeep Chawla
+- [Designing a Slimmer Vector of Variants](/Presentations/Designing_a_Slimmer_Vector_of_Variants.pdf) by Christopher Fretz
+- [Development tools: Past, Present and Future](/Presentations/Development_tools-Past_Present_and_Future.pdf) by Marshall Clow

@@ -21,6 +21,7 @@ More slides will be added as and when they are provided.
 - [An Adventure in Modern Library Design](/Presentations/An-Adventure-in-Modern-Library-Design.pdf) by Robert Leahy
 - [C++ Memory Model: from C++11 to C++23](/Presentations/Cpp_Memory_Model.pdf) by Alex Dathskovsky
 - [A New Dragon in the Den: Fast conversion from floating point numbers](/Presentations/a-new-dragon-in-the-den.pdf) by Cassio Neri
+- [Employing Senders and Receivers to Tame Concurrency in Embedded Systems](https://michael.caisse.io/talks/2024-cppnow-senders/) by Michael Caisse
 - [Reflection is good for (code) health](/Presentations/Reflection-is-good-for-your-code-health) by Saksham Sharma
 - [Implementing Ranges and Views](/Presentations/Implementing_Ranges_and_Views.pdf) by Roi Barkan
 - [An (In-)Complete Guide to C++ Object Lifetimes](/Presentations/An_(In-)Complete_Guide_to_Cpp_Object_Lifetimes.pdf) by Jonathan Müller
@@ -41,6 +42,7 @@ More slides will be added as and when they are provided.
 - [How do Time Travel Debuggers Work?: Design and implementation of a time travel debugger](/Presentations/How_do_Time_Travel_Debuggers_Work.pdf) by Greg Law
 - [Concept Maps using C++23 Library Tech: Indirection to APIs for a Concept](/Presentations/Concept_Maps_using_Cpp23_Library_Tech.pdf) by Steve Downey
 - [The Most Important API Design Guideline: No, It's Not That One](/Presentations/The_Most_Important_API_Design_Guideline.pdf) by Jody Hagins
+- [Security in C++ - Hardening techniques from the trenches](/Presenations/Hardening_Techniques_from_the_Trenches.pdf) by Louis Dionne
 - [Glean: Code Indexing at Meta](/Presentations/glean.pdf) by Michael Park
 - [Embedded Asynchronous Abstraction: Implementing Senders &amp; Receivers Without an OS](/Presentations/Embedded_Asynchronous_Abstraction.pdf) by Ben Deane
 - [Modernizing Finite State Machines Implementation: Empowering Simplicity and Boosting Performance with std::variant](/Presentations/Modernizing_Finite_State_Machines_Implementation.pdf) by Amandeep Chawla

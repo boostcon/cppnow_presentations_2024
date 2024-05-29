@@ -26,6 +26,7 @@ More slides will be added as and when they are provided.
 - [Implementing Ranges and Views](/Presentations/Implementing_Ranges_and_Views.pdf) by Roi Barkan
 - [An (In-)Complete Guide to C++ Object Lifetimes](/Presentations/An_(In-)Complete_Guide_to_Cpp_Object_Lifetimes.pdf) by Jonathan Müller
 - [C++ is a metacompiler](/Presentations/Cpp_is_a_Metacompiler.pdf) by Daniel Nikpayuk
+- [Building Consensus: Rules for Our massive C++ codebase](/Presentations/Building_Consensus.pdf)
 - [A case study in zero-cost abstractions: High performance message dispatch](/Presentations/High_Performance_Message_Dispatch.pdf) by Luke Valenty
 - [Backporting Safety](/Presentations/Backporting_Safety.pdf) by Taylor Foxhall
 - [Zero overhead pass by value through invocable abstractions](/Presentations/Zero_Overhead_Pass_By_Value_Through_Invocable_Abstractions.pdf) by Filipp Gelman
@@ -44,6 +45,7 @@ More slides will be added as and when they are provided.
 - [The Most Important API Design Guideline: No, It's Not That One](/Presentations/The_Most_Important_API_Design_Guideline.pdf) by Jody Hagins
 - [Security in C++ - Hardening techniques from the trenches](/Presenations/Hardening_Techniques_from_the_Trenches.pdf) by Louis Dionne
 - [Glean: Code Indexing at Meta](/Presentations/glean.pdf) by Michael Park
+- [The Vector Challenge](/Presentations/The_Vector_Challenge.pdf) by Lisa Lippincott
 - [Embedded Asynchronous Abstraction: Implementing Senders &amp; Receivers Without an OS](/Presentations/Embedded_Asynchronous_Abstraction.pdf) by Ben Deane
 - [Modernizing Finite State Machines Implementation: Empowering Simplicity and Boosting Performance with std::variant](/Presentations/Modernizing_Finite_State_Machines_Implementation.pdf) by Amandeep Chawla
 - [Designing a Slimmer Vector of Variants](/Presentations/Designing_a_Slimmer_Vector_of_Variants.pdf) by Christopher Fretz

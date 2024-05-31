@@ -42,6 +42,7 @@ More slides will be added as and when they are provided.
 - [Our Other C++ Interfaces: Mistakes to Avoid When Writing C++ Projects](/Presentations/Our_Other_Cpp_Interfaces.pdf) by Bret Brown
 - [How do Time Travel Debuggers Work?: Design and implementation of a time travel debugger](/Presentations/How_do_Time_Travel_Debuggers_Work.pdf) by Greg Law
 - [Concept Maps using C++23 Library Tech: Indirection to APIs for a Concept](/Presentations/Concept_Maps_using_Cpp23_Library_Tech.pdf) by Steve Downey
+- [This is C++](/Presentations/This_is_Cpp.pdf) by Jon Kalb
 - [The Most Important API Design Guideline: No, It's Not That One](/Presentations/The_Most_Important_API_Design_Guideline.pdf) by Jody Hagins
 - [Security in C++ - Hardening techniques from the trenches](/Presenations/Hardening_Techniques_from_the_Trenches.pdf) by Louis Dionne
 - [Glean: Code Indexing at Meta](/Presentations/glean.pdf) by Michael Park
